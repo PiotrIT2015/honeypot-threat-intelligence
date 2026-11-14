@@ -234,3 +234,5 @@ This repository is an educational cybersecurity and portfolio project. Component
 ## Disclaimer
 
 This project is intended for educational purposes, defensive security research, and controlled laboratory use only. Deploy and operate the honeypot only on systems and networks that you own or are explicitly authorized to use. You are responsible for complying with applicable laws, service-provider terms, and security requirements.
+
+![image alt](https://github.com/PiotrIT2015/honeypot-threat-intelligence/blob/master/screenshot-1.jpg?raw=true)
