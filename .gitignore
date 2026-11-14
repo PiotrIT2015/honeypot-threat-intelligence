@@ -1,0 +1,14 @@
+.env
+
+__pycache__/
+*.pyc
+
+*.venv/
+venv/
+
+data/raw/*
+data/processed/*
+data/errors/*
+data/threat_intelligence/*
+
+!.gitkeep

@@ -1,0 +1,13 @@
+{
+    "generated_at": "2026-11-14T20:38:25.611134+00:00",
+    "total_events": 31,
+    "analyzed_ips": 1,
+    "total_alerts": 0,
+    "severity": {
+        "low": 1,
+        "medium": 0,
+        "high": 0,
+        "critical": 0
+    },
+    "errors": 0
+}
